@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@200&family=Rubik+Beastly&display=swap');
+* {
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+h1 {
+    font-family: 'Rubik Beastly', cursive;
+    text-align: center;
+    font-weight: normal;
+    width: auto;
+    cursor: pointer;
+}
+
+h1:hover {
+    transform: rotate(5deg);
+}
+
+p:hover {
+    font-weight: bold;
+}
